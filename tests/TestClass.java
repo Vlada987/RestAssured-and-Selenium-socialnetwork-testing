@@ -17,7 +17,7 @@ import util.Keys;
 import util.RandomMsg;
 import util.TextContent;
 
-public class TestClass {
+public class TestClass extends ExtentReport {
 
 	Context context = new Context();
 	public String url = "xxxxxxxxxxxxxxxxxxxxxxx";
